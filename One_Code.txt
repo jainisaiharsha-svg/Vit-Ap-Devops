@@ -1,3 +1,4 @@
 Hi - Welcome to DevOps Session
 Good mrng
 Todays Topics
+1.DevOps-Git and its Functions
